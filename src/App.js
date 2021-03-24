@@ -56,7 +56,11 @@ Thanks for watching :-)
         <p className='footer-text'>
           {new Date().getFullYear()} Markdown Previewer.<br></br> This is a
           project for
-          <a href='https://www.freecodecamp.org/' target='_blank'>
+          <a
+            href='https://www.freecodecamp.org/'
+            target='_blank'
+            rel='noopener'
+          >
             Free Code Camp
           </a>
           . Check Out this amaizing free site to learn how to code.
